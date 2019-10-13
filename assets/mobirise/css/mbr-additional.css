@@ -1595,73 +1595,39 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-color: #f7ed4a;
 }
-.cid-rExFeHjCaM {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/sam-3768-medium-800x600.jpg");
+.cid-rELo5Zsrom {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rExFeHjCaM .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rExFeHjCaM .mbr-content-text {
-  color: #ffffff;
-  margin-bottom: 0;
-}
-.cid-rExFeHjCaM .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rExFeHjCaM .img-text {
-  width: 20px;
-  height: 20px;
-  font-size: 10px;
-  border: 2px solid #232323;
-  border-radius: 50%;
-  color: #232323;
-}
-.cid-rExFeHjCaM .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-.cid-rExFeHjCaM .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-rELo5Zsrom .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-rExFeHjCaM .media-block {
-    padding-right: 2rem;
+  .cid-rELo5Zsrom .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
-}
-.cid-rExFeHjCaM .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
 }
 @media (max-width: 991px) {
-  .cid-rExFeHjCaM .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
+  .cid-rELo5Zsrom .mbr-figure {
+    padding-bottom: 3rem;
   }
 }
-.cid-rExFeHjCaM H4 {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-rELo5Zsrom .mbr-text {
+    text-align: center;
+  }
 }
-.cid-rExFeHjCaM .mbr-section-title {
+.cid-rELo5Zsrom H1 {
   color: #ff3366;
 }
 .cid-rExGk9iImA {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f7ed4a;
 }
 .cid-rExppEQtF7 {
   background-image: url("../../../assets/images/pet-ownership-blog-940x600-940x600.jpg");
