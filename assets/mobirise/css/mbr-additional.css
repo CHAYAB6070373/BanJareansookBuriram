@@ -1329,7 +1329,7 @@ section.lazy-placeholder:after {
 .cid-skVdBFgn6y {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #713011;
+  background-color: #232323;
 }
 .cid-skV4WFPbCZ .navbar {
   padding: .5rem 0;
@@ -1738,10 +1738,27 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/img-9890-2000x1333.jpg");
 }
+.cid-skXxj6obsK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-skXq6GDUPf {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #c95625;
+}
+.cid-skXq6GDUPf .mbr-text,
+.cid-skXq6GDUPf blockquote {
+  color: #767676;
+}
+.cid-skXq6GDUPf .mbr-text {
+  color: #ffffff;
+}
 .cid-skX0GcsNtp {
   padding-top: 0px;
   padding-bottom: 15px;
-  background: #f26428;
+  background: #c95625;
 }
 .cid-skX0GcsNtp .media-container-row {
   margin: 0 auto;
@@ -1787,8 +1804,8 @@ section.lazy-placeholder:after {
 }
 .cid-skX0HoiPfC {
   padding-top: 0px;
-  padding-bottom: 0px;
-  background: #ffffff;
+  padding-bottom: 30px;
+  background: #c95625;
 }
 .cid-skX0HoiPfC .media-container-row {
   margin: 0 auto;
@@ -1837,10 +1854,42 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-skXv8DopCi {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/img-9890-2000x1333.jpg");
+}
+.cid-skXv8DopCi .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-skXv8DopCi .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-skXv8DopCi .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-skXoD5HDPu {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #c95625;
+}
+.cid-skXoD5HDPu .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-skXoD5HDPu H2 {
+  color: #efefef;
+}
 .cid-skX0YlHnm8 {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 45px;
-  background: #ffffff;
+  background: #c95625;
 }
 .cid-skX0YlHnm8 .images-container.container-fluid {
   padding: 0;
@@ -1887,17 +1936,9 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-skXoD5HDPu {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-skXoD5HDPu .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-skX0WBtIg3 {
-  background: #ffffff;
-  padding-top: 60px;
+  background: #c95625;
+  padding-top: 0px;
   padding-bottom: 60px;
 }
 .cid-skX0WBtIg3 .image-block {
@@ -1919,15 +1960,18 @@ section.lazy-placeholder:after {
 .cid-skXoOQSU0C {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #c95625;
 }
 .cid-skXoOQSU0C .mbr-section-subtitle {
   color: #767676;
 }
+.cid-skXoOQSU0C H2 {
+  color: #efefef;
+}
 .cid-skX0L2tcMq {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-color: #f26428;
+  background-color: #c95625;
   overflow: hidden;
   box-sizing: border-box;
 }
@@ -1998,7 +2042,7 @@ section.lazy-placeholder:after {
 .cid-skVdBFgn6y {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #713011;
+  background-color: #232323;
 }
 .cid-skVdrb0aZr {
   padding-top: 30px;
@@ -2513,9 +2557,9 @@ section.lazy-placeholder:after {
   color: #ff3366 !important;
 }
 .cid-skVdBFgn6y {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #713011;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-skV4WFPbCZ .navbar {
   padding: .5rem 0;
@@ -3034,9 +3078,9 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-skVdBFgn6y {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #713011;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-skVdQTds5b {
   padding-top: 30px;
@@ -3514,7 +3558,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-skVdBFgn6y {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #713011;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
