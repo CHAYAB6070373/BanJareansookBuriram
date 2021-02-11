@@ -1,2 +1,2 @@
-# ExoticPetsBycy
+# BanJareansookBuriram
 GitHub Pages
